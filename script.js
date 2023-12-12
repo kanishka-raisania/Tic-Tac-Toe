@@ -6,7 +6,7 @@ let gameover= false
 let totalMoves=0;
 const maxMoves=9;
 let winMusic= new Audio("Victory.mp3")
-let drawMusic= new Audio("ara-ara.mp3")
+
 
 // Function to change the turn
 const changeTurn= () =>{
